@@ -1,0 +1,157 @@
+{
+  "main": {
+    "id": "e907117ee91da8b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "83f873ee38b8e053",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "93c8e5cc87b0f635",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten/Aktieskat.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "15678f418272b93d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ab7295ef852bf013",
+    "type": "split",
+    "children": [
+      {
+        "id": "bae0fd1d9567d60c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f488174306e0f47",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ffeece60d4a10ba8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Princip",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "43e3087b112fb30c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "3dc9ec6cd58b2d31",
+    "type": "split",
+    "children": [
+      {
+        "id": "9fba65198ec2161d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5b233f6a31a9e3a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "34544da7f241bc3a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "344f2795f9b725ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ba4f5e639a53b579",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "15678f418272b93d",
+  "lastOpenFiles": [
+    "Zettelkasten/Forskuds- og årsopgørelse.md",
+    "Zettelkasten/Aktieskat.md",
+    "Zettelkasten/Gennemsnitlige vækst.md",
+    "Zettelkasten/Giv aktie i gave 🎁.md",
+    "Zettelkasten/Dollar Cost Averaging.md",
+    "Zettelkasten/Boligkøb og ejendomsinvestering.md",
+    "Zettelkasten/Betaling af SKAT på pension Nordnet.md",
+    "Zettelkasten/Betaling af SKAT på Aktiesparekonto.md",
+    "Zettelkasten/Arveskat.md",
+    "Zettelkasten/Alternative investeringsformer.md"
+  ]
+}
