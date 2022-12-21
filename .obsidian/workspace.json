@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "93c8e5cc87b0f635",
+            "id": "15678f418272b93d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Aktieskat.md",
+                "file": "Zettelkasten/Investering via Virksomhed.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "15678f418272b93d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 243
   },
   "right": {
     "id": "3dc9ec6cd58b2d31",
@@ -94,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Zettelkasten/Investering via Virksomhed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Zettelkasten/Investering via Virksomhed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Zettelkasten/Investering via Virksomhed.md"
+              }
             }
           }
         ]
@@ -143,15 +138,15 @@
   },
   "active": "15678f418272b93d",
   "lastOpenFiles": [
-    "Zettelkasten/Forskuds- og årsopgørelse.md",
-    "Zettelkasten/Aktieskat.md",
-    "Zettelkasten/Gennemsnitlige vækst.md",
-    "Zettelkasten/Giv aktie i gave 🎁.md",
-    "Zettelkasten/Dollar Cost Averaging.md",
-    "Zettelkasten/Boligkøb og ejendomsinvestering.md",
-    "Zettelkasten/Betaling af SKAT på pension Nordnet.md",
-    "Zettelkasten/Betaling af SKAT på Aktiesparekonto.md",
-    "Zettelkasten/Arveskat.md",
-    "Zettelkasten/Alternative investeringsformer.md"
+    "Zettelkasten/Overblik over gebyrer.md",
+    "Zettelkasten/Pasted image 20221218181242.png1+++.md",
+    "Zettelkasten/Investering via Virksomhed.md",
+    "Zettelkasten/Inspirationskilder til aktier.md",
+    "Zettelkasten/Sparetips.md",
+    "Zettelkasten/Sommerhusinvestering.md",
+    "Zettelkasten/SKAT - Andre Investeringer.md",
+    "Zettelkasten/Renters rente effekten.md",
+    "Zettelkasten/Pasted image 20221113213157.png.md",
+    "Zettelkasten/Giv aktie i gave 🎁.md"
   ]
 }
