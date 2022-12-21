@@ -13,10 +13,18 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Investering via Virksomhed.md",
+                "file": "Zettelkasten/Github codes.md",
                 "mode": "source",
                 "source": false
               }
+            }
+          },
+          {
+            "id": "847d4c4f846981e4",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Investering via Virksomhed.md",
+                "file": "Zettelkasten/Github codes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Investering via Virksomhed.md",
+                "file": "Zettelkasten/Github codes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Investering via Virksomhed.md"
+                "file": "Zettelkasten/Github codes.md"
               }
             }
           }
@@ -138,15 +146,15 @@
   },
   "active": "15678f418272b93d",
   "lastOpenFiles": [
+    "Zettelkasten/Investering via Virksomhed.md",
+    "Zettelkasten/Github codes.md",
     "Zettelkasten/Overblik over gebyrer.md",
     "Zettelkasten/Pasted image 20221218181242.png1+++.md",
-    "Zettelkasten/Investering via Virksomhed.md",
     "Zettelkasten/Inspirationskilder til aktier.md",
     "Zettelkasten/Sparetips.md",
     "Zettelkasten/Sommerhusinvestering.md",
     "Zettelkasten/SKAT - Andre Investeringer.md",
     "Zettelkasten/Renters rente effekten.md",
-    "Zettelkasten/Pasted image 20221113213157.png.md",
-    "Zettelkasten/Giv aktie i gave 🎁.md"
+    "Zettelkasten/Pasted image 20221113213157.png.md"
   ]
 }
