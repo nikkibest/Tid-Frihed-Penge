@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 428.5
   },
   "right": {
     "id": "3dc9ec6cd58b2d31",
@@ -141,10 +141,20 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
   "active": "15678f418272b93d",
   "lastOpenFiles": [
-    "Zettelkasten/Forskuds- og årsopgørelse.md",
     "Zettelkasten/Aktieskat.md",
+    "Zettelkasten/Forskuds- og årsopgørelse.md",
     "Zettelkasten/Gennemsnitlige vækst.md",
     "Zettelkasten/Giv aktie i gave 🎁.md",
     "Zettelkasten/Dollar Cost Averaging.md",
