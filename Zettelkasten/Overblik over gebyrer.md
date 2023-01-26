@@ -118,3 +118,4 @@ Men overordnet så er det som almindelig amatør investor i enkeltaktier og fond
 ![[]]
 
 ### Tags
+#ToDo 
