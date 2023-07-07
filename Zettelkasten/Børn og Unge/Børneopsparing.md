@@ -6,6 +6,7 @@ En traditionel børneopsparing kan _kun_ oprettes via banken (og ikke Nordnet ek
 Den store fordel ved denne er at alt afkast er **skattefrit.** Derfor kan der også maksimalt indbetales 6.000 kr/år og totalt set 72.000 kr. Se yderligere info i faktaboksen herunder.
 
 **Faktaboks: Børneopsparing:**
+
 Icon | Beskrivelse
 ------------ | ------------
 **👶** | Der kan oprettes **én** børneopsparing per barn.
@@ -40,3 +41,6 @@ Her er en oversigt over nogle af landets banker (opdateres løbende).
 [Lån & Spar](https://www.lsb.dk/privat/produkter/boern-teenagere/boerneopsparing) | Investering på egen hånd eller aktivt forvaltet. | 29 kr i kurtage.
 [Arbejdernes Landsbank](https://www.al-bank.dk/privat/boern/al-boerneopsparing) | Investering gennem puljer samt investering på egen hånd. | ÅOP fra 1,7% for bankens puljer.
 [Danske Bank](https://danskebank.dk/privat/produkter/konti/boerneopsparing#content-list-0-item-6) | Der kan investeres i udvalgte puljer som enten du eller banken sammensætter. | Høj ÅOP (2% og op) og kurtage.
+
+## Tags ![[Pasted image 20220927223249.png|35]]
+#BørnOgUnge

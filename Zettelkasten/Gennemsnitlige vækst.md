@@ -12,6 +12,7 @@ Men selv gennem krige, økonomiske kriser, pandemier og andre katastrofer, så h
 - Ifølge renters rente ligningen, se [[Renters rente effekten]], kan den årlige rente af S&P 500 indekset beregnes som følgende:
 ### Regneeksempel
 $r = (K_n/K_o)^{1/n}-1 = 9\%$
+
 Variabel | Beskrivelse | Enhed
 ------------ | ------------ | ------------
 $K_n=3.873,33$ kr |  Slutkaptial | Valuta

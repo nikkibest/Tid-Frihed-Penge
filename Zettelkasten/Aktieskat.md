@@ -152,9 +152,6 @@ Samlet fradragsberettiget uudnyttede tab af danske og udenlandske børsnoterede 
 Samlet fradragsberettigettet uudnyttet tab for danske og udenlandske unoterede aktier i perioden 2002-2005. | Ikke-reguleret  marked | - | Felt 890
 
 
-
-
-
 ## Årsopgørelse 
 Danske børsmæglere og pengeinstitutter indberetter automatisk til SKAT ved din årsopgørelse, så i princippet behøver du ikke foretaget dig noget, hvis du investerer herigennem, men som beskrevet i afsnittet over med forskudsopgørelsen kan det være en fordel, omend ikke et krav. 
 

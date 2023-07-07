@@ -4,27 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "83f873ee38b8e053",
+        "id": "25cfdb5795ab288e",
         "type": "tabs",
         "children": [
           {
-            "id": "15678f418272b93d",
+            "id": "93c8e5cc87b0f635",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Zettelkasten/Github codes.md",
-                "mode": "source",
+                "file": "Zettelkasten/Børn og Unge/Udnyt frikort.md",
+                "mode": "preview",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "847d4c4f846981e4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -56,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Princip",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,16 +64,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "6655656ce47ee315",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 428.5
-=======
-    "width": 243
->>>>>>> 4dd6675313e33a48e123375d4618b3152295a5e4
+    "width": 364.5
   },
   "right": {
     "id": "3dc9ec6cd58b2d31",
@@ -97,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Zettelkasten/Github codes.md",
+                "file": "Zettelkasten/Børn og Unge/Udnyt frikort.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Zettelkasten/Github codes.md",
+                "file": "Zettelkasten/Børn og Unge/Udnyt frikort.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,15 +133,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Zettelkasten/Github codes.md"
+                "file": "Zettelkasten/Børn og Unge/Udnyt frikort.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -158,30 +155,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "15678f418272b93d",
+  "active": "93c8e5cc87b0f635",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "Zettelkasten/Aktieskat.md",
-    "Zettelkasten/Forskuds- og årsopgørelse.md",
-    "Zettelkasten/Gennemsnitlige vækst.md",
-    "Zettelkasten/Giv aktie i gave 🎁.md",
-    "Zettelkasten/Dollar Cost Averaging.md",
-    "Zettelkasten/Boligkøb og ejendomsinvestering.md",
-    "Zettelkasten/Betaling af SKAT på pension Nordnet.md",
-    "Zettelkasten/Betaling af SKAT på Aktiesparekonto.md",
-    "Zettelkasten/Arveskat.md",
-    "Zettelkasten/Alternative investeringsformer.md"
-=======
-    "Zettelkasten/Investering via Virksomhed.md",
-    "Zettelkasten/Github codes.md",
-    "Zettelkasten/Overblik over gebyrer.md",
-    "Zettelkasten/Pasted image 20221218181242.png1+++.md",
-    "Zettelkasten/Inspirationskilder til aktier.md",
+    "Zettelkasten/Pasted image 20221113213157.png.md",
+    "Zettelkasten/Børn og Unge/Udnyt frikort.md",
+    "Reference Notes/70E55F10",
+    "Zettelkasten/Børn og Unge/Børneopsparing.md",
+    "Zettelkasten/Kapitalindkomst.md",
     "Zettelkasten/Sparetips.md",
     "Zettelkasten/Sommerhusinvestering.md",
+    "Zettelkasten/Skattefradrag.md",
     "Zettelkasten/SKAT - Andre Investeringer.md",
     "Zettelkasten/Renters rente effekten.md",
-    "Zettelkasten/Pasted image 20221113213157.png.md"
->>>>>>> 4dd6675313e33a48e123375d4618b3152295a5e4
+    "Zettelkasten/Rejsetips ✈️.md",
+    "Zettelkasten/Overblik over gebyrer.md",
+    "Zettelkasten/Obligationer.md",
+    "Zettelkasten/Nordnet.md",
+    "Zettelkasten/Negative renter i banken.md",
+    "Zettelkasten/Motivation.md",
+    "Zettelkasten/Langtsigtet investeringsstrategi.md",
+    "Zettelkasten/Langtsigtede investeringsstrategi.md",
+    "Zettelkasten/Lagerbeskatning.md",
+    "Zettelkasten/Investeringsstrategi.md",
+    "Zettelkasten/Investering via Virksomhed.md",
+    "Zettelkasten/Børn og Unge/Investering for børn og unge under 18 år.md",
+    "Zettelkasten/Børn og Unge/Aktiesparekonto for børn og unge.md",
+    "Zettelkasten/Børn og Unge/Aldersopsparing for børn og unge.md",
+    "Zettelkasten/Børn og Unge",
+    "Zettelkasten/Inspirationskilder til aktier.md",
+    "Zettelkasten/Inflation.md"
   ]
 }

@@ -69,6 +69,15 @@ Her kan du se en gennemgang af alle tallene, rette dem og “se hvor de kommer f
 ![[Pasted image 20221014234253.png|600]]
 Når du har gennemgået tallene og evt. lavet rettelser går du igennem trinene og tjekker at du har indtastet de korrekte beløb og der dannes en ny årsopgørelse til dig.
 
+### Punkter man skal være opmærksom på i sin årsopgørelse:
+1. Kørselsfrdrag, rubrik 51
+2. Gebyrer ved omlægning af lån og bolighandel
+3. Tab på aktier fra uregulerede markeder
+4. Renter på lån optaget i Danmark fra udenlandske banker
+5. [Rejsefradrag](https://skat.dk/data.aspx?oid=2242213), rubrik 53
+	1. Småfornødenheder (kaffe, avis, eller busbillet). Svarende til 138,75kr (2023). Gælder også hvis du har fri kost på rejsen
+6. Servicefradrag, rubrik 461
+
 ## Tags
 #SKAT 
 

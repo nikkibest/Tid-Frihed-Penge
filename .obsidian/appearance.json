@@ -1,5 +1,6 @@
 {
   "translucency": false,
   "cssTheme": "Spectrum",
-  "accentColor": ""
+  "accentColor": "",
+  "baseFontSize": 14
 }

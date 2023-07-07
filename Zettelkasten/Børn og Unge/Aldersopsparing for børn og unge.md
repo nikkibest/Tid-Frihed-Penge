@@ -1,4 +1,3 @@
-# Aldersopsparing for børn og unge
 Sidst ændret: 2022-10-02
 
 ## Princip
@@ -6,6 +5,7 @@ Sidst ændret: 2022-10-02
 Vil du gerne sikre dit barns pension og maksimere [[Renters rente effekten]] som aldrig før? Det har du nærmest muligheden for med en [[Aldersopsparing]] hvor du kan investere for 5.500 kr/året eller 458 kr/måned for barnet og den kan som alt andet også oprettes lige fra barnet er 0 år.
 
 **Faktaboks: Aldersopsparing**
+
 Icon | Beskrivelse
 ------------ | ------------
 **👶** | Der kan oprettes flere ordninger, men indskudsgrænsen dækker ét samlet beløb.
@@ -16,3 +16,5 @@ Icon | Beskrivelse
 📈 | Kan investeres frit, men dog maks 20% i aktier fra samme selskab (med undtagelse af danske investeringsforeninger og UCITS godkendte fonde).
 
 Her kan du ligesom den lagerbeskattede aktiesparekonto med fordel overveje investering i en ETF med lave omkostninger. Det kunne igen fx være [iShares Core MSCI World UCITS ETF](https://www.nordnet.dk/markedet/etf-lister/16309430-i-shares-core-msci).
+## Tags ![[Pasted image 20220927223249.png|35]]
+#BørnOgUnge

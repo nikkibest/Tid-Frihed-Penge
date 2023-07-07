@@ -1,4 +1,3 @@
-# Udnyt frikort
 Sidst ændret: 2022-10-02
 
 ## Princip
@@ -8,11 +7,12 @@ For mange sker der først i forbindelse med ungdomsarbejde og udnyttelse af det 
 Her kan du fx oprette et [depot til mindreårige](https://www.nordnet.dk/onboarding) ved [[Nordnet]]. Hvis vi opretter den hos Nordnet, undgår vi det gebyr, vi med stor sandsynlighed skal betale i banken. [Tjekliste over ansøgning om depot i Nordnet for mindreårige.](https://nordnetforms.scrive.com/Survey/AnswerSurvey/3ca572a9-cab0-40db-8ab5-855160580e2e). 
 ![[Pasted image 20221002175328.png|400]]
 
-Du skal dog være opmærksom på at det, som der investeres i, beskattes som [[Kapitalindkomst]] for at personfradraget kan benyttes. Hvis det beskattes som [[Aktieindkomst]], vil der betales normal skat på hhv. 27% / 42%. 
+Du skal dog være opmærksom på at det, som der investeres i, beskattes som [[Kapitalindkomst]] for at personfradraget kan benyttes. Hvis det beskattes som [[Aktieindkomst]], vil der betales normal skat på hhv. 27% / 42% **ved salg af aktierne**. 
 
 Når et barn fylder 15 år opretter SKAT automatisk et frikort, men er du under 15 år skal du selv ind via SKAT. Det gør du via [denne trinvise guide](https://skat.dk/skat.aspx?oid=3449) fra SKAT af.
 
 **Faktaboks: Udnyt dit barns frikort**
+
 Icon | Beskrivelse
 ------------ | ------------
 💰 | Personfradrag på 37.300 kr om året (2022) kan udnyttes til skattefri [[Kapitalindkomst]].
@@ -49,7 +49,8 @@ Tommelfingerreglen siger, at akkumulerende danske fonde samt udenlandske ETF’e
 
 **Hvis man skal finde andre fonde til mindreårigt aktiedepot:**
 
-Nordnets egne indeksfonde beskattes alle - på nær ‘Nordnet Indeksfond Danmark’ - som kapitalindkomst. Dét, at de har en relativt lav ÅOP og hverken koster kurtage ved køb eller salg holdt sammen med, at det er gebyrfrit med depot på Nordnet, gør dem til en attraktiv investeringsmulighed. Sparindex har også fonden: ‘Sparindex Globale Aktier Min. Risiko Akk. KL’, der ligeledes beskattes som kapitalindkomst og kan købes både gennem banker og på Nordnet til en - de fleste steder - rimelig kurtage.
+Nordnets egne indeksfonde beskattes alle - på nær ‘Nordnet Indeksfond Danmark’ - som kapitalindkomst. Dét, at de har en relativt lav ÅOP og hverken koster kurtage ved køb eller salg holdt sammen med, at det er gebyrfrit med depot på Nordnet, gør dem til en attraktiv investeringsmulighed. 
+Sparindex har også fonden: ‘Sparindex Globale Aktier Min. Risiko Akk. KL’, der ligeledes beskattes som kapitalindkomst og kan købes både gennem banker og på Nordnet til en - de fleste steder - rimelig kurtage.
 
 **Hvis andre giver barnet pengene:**
 
@@ -58,3 +59,5 @@ Hvis andre giver barnet pengene gælder samme regler, som hvis pengene kommer fr
 Det vil sige, at hvis du er moster, onkel, faster, kusine eller har en anden relation, som ikke går i lige linje til barnet, er det barnets forældre, der skal betale skatten - uanset om det går under kapitalindkomstbeskatning eller aktieindkomstbeskatning.
 
 Det er altid forældrenes ansvar at kontakte SKAT, hvis der er investeres penge for barnet, som forældrene skal betale skat af. Hvis flere forskellige overfører penge til barnet, kan det være en god idé med separate depoter, som gør det gennemsigtigt i forhold til hvilke penge, der er investeret i hvad. Det kan fx være to depoter: Et, som bedsteforældre og oldeforældre kan overføre til, og som barnet betaler skat af, og et som forældre og andre overfører til, og som forældrene betaler skat af.
+## Tags ![[Pasted image 20220927223249.png|35]]
+#BørnOgUnge

@@ -3,6 +3,7 @@ Sidst ændret: 2022-10-02
 
 ## Princip
 **Faktaboks: Aldersopsparing**
+
 Icon | Beskrivelse
 ------------ | ------------
 **👶** | Der kan oprettes flere ordninger, men indskudsgrænsen dækker ét samlet beløb.

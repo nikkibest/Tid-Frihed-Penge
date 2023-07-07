@@ -2,6 +2,7 @@ Sidst ændret: 2022-12-18
 
 ## Princip
 Denne node omhandler investering i aktier gennem din virksomhed frem for privat. Dvs. hvis du fx har et ApS eller en enkeltmandsvirksomhed og ønsker at investere noget af dit overskud herfra. Der skelnes mellem selskaber og personlige virksomheder (se tabel under).
+
 **Selskabsformer** | **Personlige virksomheder**
 ------------ | ------------
 Iværksætterselskab (IvS), anpartsselskab (ApS) og aktieselskab (A/S) | Enkeltmandsvirksomhed (ENK) og interessentselskab (IS)
@@ -11,7 +12,10 @@ _Hvorfor investere via selskab?_
 
 Som tommelfingerregel giver det ikke mening at oprette et selskab med det formål at investere herigennem (medmindre du måske er professionel daytrader, men ikke som langsigtet privat investor). Der er nemlig også en del omkostninger og administration ved at have et selskab.
 
-Derimod, hvis du i forvejen _har_ et selskab med overskud kan der være fordele ved at investere her igennem pga. (1) en lavere beskatning, (2) investering af bruttoindkomst (før skat) og (3) muligheder for optimering af personlig beskatning ift. ens virksomheds samlede økonomi.
+Derimod, hvis du i forvejen _har_ et selskab med overskud kan der være fordele ved at investere her igennem pga.:
+1. en lavere beskatning
+2. investering af bruttoindkomst (penge før skat)
+3. muligheder for optimering af personlig beskatning ift. ens virksomheds samlede økonomi.
 
 Jeg kan desuden anbefale [dette blogindlæg](https://pengepugeren.dk/2019/06/skal-jeg-investere-via-selskab/) for at se flere eksempler på investering privat vs gennem selskab.
 
